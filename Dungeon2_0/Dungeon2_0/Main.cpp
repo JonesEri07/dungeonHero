@@ -18,7 +18,7 @@
 
 using namespace std;
 
-
+//hello Eric!
 //string checkChoice(string list, string choice);
 
 
