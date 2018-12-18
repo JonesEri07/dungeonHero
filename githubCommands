@@ -1,0 +1,14 @@
+git clone https://github.com/JonesEri07/dungeonHero
+
+git status
+
+git add -A
+
+git commit -m "what you did"
+
+git push
+
+
+git pull
+
+(All must be done inside the git hub repo folder)
